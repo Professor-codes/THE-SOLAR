@@ -7,7 +7,10 @@
 
 # Project preview
 
-![the-solar](https://github.com/Professor-codes/THE-SOLAR/assets/126326997/a9b40fc4-a4dd-4033-931a-729fecaa2382)
+![the-solar](https://github.com/Professor-codes/THE-SOLAR/assets/126326997/b020c1dd-0bb5-4971-882f-db0ebd50c5eb)
+
+
+
 
 
 
